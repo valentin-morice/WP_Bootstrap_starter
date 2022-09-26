@@ -1,3 +1,3 @@
 <?php get_header();
-Hello World!
+echo "Hello World!";
 get_footer();
